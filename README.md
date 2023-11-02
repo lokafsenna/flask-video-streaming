@@ -7,7 +7,7 @@
     - requirements (install these first)
 
  - Start command: 
-
+   `python app.py`
 
 
 
